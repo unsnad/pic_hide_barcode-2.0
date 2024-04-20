@@ -1,0 +1,5 @@
+1.请确定该设备已经安装了Python或Visual Studio Code
+2.后缀名只能是.jpg
+3.使用前改名:图片1.jpg 只能是原图 同理 图片2.jpg 只能是二维码图片
+4.使用前务必在终端输入"pip install Pillow"
+5.最后输出的图片可能会被拉长
